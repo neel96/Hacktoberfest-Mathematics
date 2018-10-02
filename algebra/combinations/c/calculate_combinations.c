@@ -16,3 +16,4 @@ void main(){
 	scanf("%d%d",&n,&r);
 	printf("Value of %dC%d is %ld",n,r,combination(n,r));
 }
+getch();
